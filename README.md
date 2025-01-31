@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center" style="color: #a0aec0;">
-  I am a passionate programmer from Brockton, Massachusetts studying Computer Science with a concentration of Systems @ Northeastern University
+  I am a passionate programmer from Brockton, Massachusetts studying Computer Science with a concentration in Artificial Intelligence @ Northeastern University
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tafarilevy&label=Profile%20views&color=0e75b6&style=flat" alt="tafarilevy" /> </p>
