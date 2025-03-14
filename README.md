@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tafarilevy&label=Profile%20views&color=0e75b6&style=flat" alt="tafarilevy" /> </p>
 
-- 🔭 I’m currently working on [Option Pricing Visualizer]([https://github.com/tafarilevy](https://github.com/marvin-g-personal/Option-Pricing-Visualizer-Black-Scholes-Monte-Carlo-Binomial-Model))
+- 🔭 I’m currently working on [Option Pricing Visualizer](https://github.com/marvin-g-personal/Option-Pricing-Visualizer-Black-Scholes-Monte-Carlo-Binomial-Model)
 
 - 📫 How to reach me: **darosalevy.t@northeastern.edu** or **tafaridlevy@gmail.com**
 
